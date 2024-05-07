@@ -1,6 +1,9 @@
 # Apple-Inc-Vs-Samsung-Inc
 Author: Joshua Caceres (jcaceres@elon.edu)
 
+### Link for Vizualizations
+https://public.tableau.com/views/mgt4250/Sheet1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
+
 ## Project Description
 How have we ever wondered why so many customers choose either an iPhone
 or Samsung as a personal choice, today I’m going to talk about how this information
@@ -23,4 +26,19 @@ people for the looks. In the data, we can see that in 2017 and 2018 Samsung did 
 better in sales and revenue than Apple and it shows that having those free apps impacts a lot
 on sales.
 
-2. 
+2. Samsung is well recognized by the Samsung Galaxy Brand which includes the Samsung
+Galaxy S series which was first produced in 2010, while Apple is well known as the first
+successful personal computer company. With this much influence and the history that this
+company provides, it helps to see the customer's preference or Brand perception and
+sometimes it can be for brand loyalty.
+
+3. I decided to do a survey on these two companies and see whether the females or males are more attracted to
+Apple or Samsung, but also identifying the different types of ages that many of these people are
+either buying or changing their preference to another phone.
+
+### Section 2
+### Data Desccription & Upload 
+
+
+
+
