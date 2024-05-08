@@ -48,6 +48,15 @@ either buying or changing their preference to another phone.
 ## Interpret Vizualization 
 ![image](https://github.com/jcaceres21/Apple-Inc-Vs-Samsung-Inc/assets/168772954/5bdd9881-3c14-4fcf-95a2-f606489e80be)
 
+- The figure above it shows how each company did between the years 2017 and 2018, this influence the data due to how the company is marketing their products or the new features that the phone provides like using the fingerprint to help you unlock your phone which is the Samsung feature, then just the basic slide-up and putting your password. During the 2018 sales, we discovered that Apple did better selling the iPhone in the USA than the Rest of Pacific Asia and this is because of the early adoption of technology that in 2018 many countries were not ready to embrace a new technology. The last difference in revenue that each of these companies has is the cost of building the new phone and technology integrated to be the best mobile device to be used daily. This Visualisation helped me answer my question because it demonstrate how each company did yearly but also who had the most sales during that year and the reason behind it.
+
+![image](https://github.com/jcaceres21/Apple-Inc-Vs-Samsung-Inc/assets/168772954/497c3396-41af-40a4-9005-362c45ee2575)
+
+-In the figure above we can see the difference in the market between these two companies and the most important key that would determine how the market trend changes are due to the prices of each of these phones, Believe it or not, many customers may like the look of the new mobiles devices but if many customers can’t afford to buy an expensive iPhone or Samsung, then we can see the shift of the market and how much Units of Sales that the company is selling each year. This visualization answers my question because it helps me to see what each company needs to improve on or the type of changes in prices of each country influence the market selling of the devices for example where in Europe the iPhone is far more expensive than in the US because of the currency difference.
+
+![image](https://github.com/jcaceres21/Apple-Inc-Vs-Samsung-Inc/assets/168772954/97aa97ec-42dc-4735-ae0c-b26c3b5e0311)
+
+
 
 
 
