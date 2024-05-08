@@ -44,5 +44,10 @@ either buying or changing their preference to another phone.
 - The data types would be Apple and Samsung  and the columns represent Geography,product,unit sales, revenue and brand.
 - Laslty the other data that is in excel is the Survey that I conduct to see the Participants ID which is the number of survey I conducted, next is age, location and brand preference.
 
+### Section 3
+## Interpret Vizualization 
+![image](https://github.com/jcaceres21/Apple-Inc-Vs-Samsung-Inc/assets/168772954/5bdd9881-3c14-4fcf-95a2-f606489e80be)
+
+
 
 
