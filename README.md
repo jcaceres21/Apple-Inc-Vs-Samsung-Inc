@@ -40,7 +40,9 @@ either buying or changing their preference to another phone.
 ### Data Desccription & Upload 
 
 - In order to access the data for the vizualization, you will need to click the link that is provided above and its going to take you directly to Tableuo Public, there you can see the original graphs and the data that would be provide for you.
-- 
+- The raw data would be provide as well to see the specification and details of what the data is about, the name of the file is Apple Vs. Smasung.xlx
+- The data types would be Apple and Samsung  and the columns represent Geography,product,unit sales, revenue and brand.
+- Laslty the other data that is in excel is the Survey that I conduct to see the Participants ID which is the number of survey I conducted, next is age, location and brand preference.
 
 
 
