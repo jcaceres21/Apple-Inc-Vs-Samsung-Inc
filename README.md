@@ -2,7 +2,7 @@
 Author: Joshua Caceres (jcaceres@elon.edu)
 
 ### Link for Vizualizations
-https://public.tableau.com/views/mgt4250/Sheet1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/JoshuaCaceresMGT4250/ParticipantsSurvey?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 
 ## Project Description
 How have we ever wondered why so many customers choose either an iPhone
@@ -39,6 +39,8 @@ either buying or changing their preference to another phone.
 ### Section 2
 ### Data Desccription & Upload 
 
+- In order to access the data for the vizualization, you will need to click the link that is provided above and its going to take you directly to Tableuo Public, there you can see the original graphs and the data that would be provide for you.
+- 
 
 
 
