@@ -2,7 +2,7 @@
 Author: Joshua Caceres (jcaceres@elon.edu)
 
 ### Link for Vizualizations
-https://public.tableau.com/views/JoshuaCaceresMGT4250/ParticipantsSurvey?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
+[https://public.tableau.com/views/JoshuaCaceresMGT4250/ParticipantsSurvey?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/Dashboard_17151794840220/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 ## Project Description
 How have we ever wondered why so many customers choose either an iPhone
